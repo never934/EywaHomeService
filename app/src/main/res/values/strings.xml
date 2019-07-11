@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Eywa smart home</string>
+    <string name="accessibility_service_description">Сервис умного дома EYWA.</string>
+</resources>
